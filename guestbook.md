@@ -17,3 +17,4 @@
 - Oleg Platonenko
 - Miguel Fernandez
 - Sanjoy Karmakar
+-Sean Kross
